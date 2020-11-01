@@ -1,0 +1,33 @@
+.background{
+    visibility: visible;
+    //color: #ffffff;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter:brightness(70%) contrast(90%);
+    //background-color: rgb(100, 200,00);
+    background-image: url(5.jpg);
+
+}
+.container h3{
+    color: violet;
+}
+.table-responsive table th{
+    background-color:green ;
+    color: yellow;
+}
+.table-responsive table tbody
+{
+    background-color: yellow;
+}
